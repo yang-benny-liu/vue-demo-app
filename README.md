@@ -1,1 +1,1 @@
-# Vue.js Hello World
+# Vue.js demo app
