@@ -1,6 +1,6 @@
 FROM node:lts-alpine
 
-UID 0
+USER 0
 
 RUN npm install -g http-server
 
