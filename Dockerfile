@@ -1,7 +1,5 @@
 FROM node:lts-alpine
 
-USER 0
-
 RUN npm install -g http-server
 
 WORKDIR /app
